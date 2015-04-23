@@ -28,6 +28,8 @@ gem 'spring',        group: :development
 
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 
+gem 'devise', '~>3.4.0'
+gem 'paperclip','~>4.2.0'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
