@@ -27,6 +27,8 @@ Rails.application.configure do
   # number of complex assets.
   config.assets.debug = true
 
+  Paperclip.options[:command_path]= " \Program Files\ImageMagick-6.9.1-Q16\"
+  
   # Adds additional error checking when serving assets at runtime.
   # Checks for improperly declared sprockets dependencies.
   # Raises helpful error messages.
