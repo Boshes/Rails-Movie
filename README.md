@@ -1,2 +1,2 @@
-# Ruby-Movie
-Ruby-Movie Review website implementation
+# Rails-Movie
+Ruby on Rails-Movie Review website implementation
